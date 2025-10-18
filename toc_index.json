@@ -1,0 +1,122 @@
+[
+  {
+    "section_number": 1,
+    "section_title": "Order of Sunday Worship",
+    "slug": "order-of-sunday-worship",
+    "file": "sections/01-order-of-sunday-worship.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 2,
+    "section_title": "Order of Christmas Worship",
+    "slug": "order-of-christmas-worship",
+    "file": "sections/02-order-of-christmas-worship.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 3,
+    "section_title": "Collects for the Church year",
+    "slug": "collects-for-the-church-year",
+    "file": "sections/03-collects-for-the-church-year.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 4,
+    "section_title": "Collects for Special Occasions",
+    "slug": "collects-for-special-occasions",
+    "file": "sections/04-collects-for-special-occasions.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 5,
+    "section_title": "Church Lectionary",
+    "slug": "church-lectionary",
+    "file": "sections/05-church-lectionary.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 6,
+    "section_title": "Sacrament of Holy Baptism",
+    "slug": "sacrament-of-holy-baptism",
+    "file": "sections/06-sacrament-of-holy-baptism.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 7,
+    "section_title": "Confirmation Service",
+    "slug": "confirmation-service",
+    "file": "sections/07-confirmation-service.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 8,
+    "section_title": "Holy Communion Service",
+    "slug": "holy-communion-service",
+    "file": "sections/08-holy-communion-service-79.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 9,
+    "section_title": "Order for Marriage Solemnization",
+    "slug": "order-for-marriage-solemnization",
+    "file": "sections/09-order-for-marriage-solemnization.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 10,
+    "section_title": "Order for Blessing of Marriage",
+    "slug": "order-for-blessing-of-marriage",
+    "file": "sections/10-order-for-blessing-of-marriage.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 12,
+    "section_title": "Consecration of a Burial ground",
+    "slug": "consecration-of-a-burial-ground",
+    "file": "sections/12-consecration-of-a-burial-ground.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 13,
+    "section_title": "Church Foundation laying Service",
+    "slug": "church-foundation-laying-service",
+    "file": "sections/13-church-foundation-laying-service-101.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 14,
+    "section_title": "Consecration of a New Church building",
+    "slug": "consecration-of-a-new-church-building",
+    "file": "sections/14-consecration-of-a-new-church-building-104.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 15,
+    "section_title": "Consecration of Places not consecrated for Worship",
+    "slug": "consecration-of-places-not-consecrated-for-worship",
+    "file": "sections/15-consecration-of-places-not-consecrated-for-worship.json",
+    "category": "",
+    "tags": []
+  },
+  {
+    "section_number": 18,
+    "section_title": "Receiving into Fellowship non Lutheran Members",
+    "slug": "receiving-into-fellowship-non-lutheran-members",
+    "file": "sections/18-receiving-into-fellowship-non-lutheran-members.json",
+    "category": "",
+    "tags": []
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_title": "LUTHERAN ORDER OF SERVICE",
+    "section_number": 1,
+    "section_title": "Order of Sunday Worship",
+    "slug": "order-of-sunday-worship",
+    "pages": {
+      "start": 1,
+      "end": null
+    }
+  },
+  "metadata": {
+    "category": "",
+    "tags": [],
+    "notes": ""
+  },
+  "content": {
+    "overview": "",
+    "elements": [
+      {
+        "order": 1,
+        "type": "rubric",
+        "title": "Rubric",
+        "speaker": "",
+        "rubric": "",
+        "text": "All is calm, all is bright\nRound yonder vir-gin mother and child\nHo-ly in-fant, so tender and mild,\nSleep in heav-enly peace; sleep in heav-enly peace.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      }
+    ]
+  },
+  "cross_references": []
+}

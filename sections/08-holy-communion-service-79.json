@@ -1,0 +1,23 @@
+{
+  "schema_version": "1.0.0",
+  "source": {
+    "document_title": "LUTHERAN ORDER OF SERVICE",
+    "section_number": 8,
+    "section_title": "Holy Communion Service",
+    "slug": "holy-communion-service",
+    "pages": {
+      "start": null,
+      "end": null
+    }
+  },
+  "metadata": {
+    "category": "",
+    "tags": [],
+    "notes": ""
+  },
+  "content": {
+    "overview": "",
+    "elements": []
+  },
+  "cross_references": []
+}
