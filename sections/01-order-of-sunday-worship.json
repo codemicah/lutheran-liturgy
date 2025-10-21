@@ -57,7 +57,7 @@
         "title": "Minister",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "Let us continue our service by singing Hymn",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -79,7 +79,7 @@
         "title": "Confession of sins",
         "speaker": "minister",
         "rubric": "",
-        "text": "Beloved in the Lord, if we say we have no sin, we deceive ourselves and the truth is not in us. But if we confess our sins, God is faithful and just to forgive our sins and cleanse us from all unrighteousness.\nLet us bow and confess our sins before the LORD our God\n(Silence for brief reflection and self examination).\nThe minister and congregation shall say:\nAlmighty God, our Maker and Redeemer, we poor sinners confess unto You, that we are by nature sinful and unclean, and that we have sinned against You in thought, words, and deed. We have not loved You with all our hearts; we have not loved our neighbours as ourselves. Wherefore we flee for refuge to your infinite mercy, seeking and imploring your grace, for the sake of our LORD Jesus Christ. Amen.",
+        "text": "The minister shall say:\n\nBeloved in the Lord, if we say we have no sin, we deceive ourselves and the truth is not in us. But if we confess our sins, God is faithful and just to forgive our sins and cleanse us from all unrighteousness.\n\nLet us bow and confess our sins before the LORD our God\n(Silence for brief reflection and self examination).\n\nThe minister and congregation shall say:\nAlmighty God, our Maker and Redeemer, we poor sinners confess unto You, that we are by nature sinful and unclean, and that we have sinned against You in thought, words, and deed. We have not loved You with all our hearts; we have not loved our neighbours as ourselves. Wherefore we flee for refuge to your infinite mercy, seeking and imploring your grace, for the sake of our LORD Jesus Christ. Amen.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -90,7 +90,7 @@
         "title": "The Kyrie",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "(The minister shall say the first line while the congregation responds with the next line).",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -101,7 +101,18 @@
         "title": "Minister",
         "speaker": "",
         "rubric": "",
-        "text": "Congregation: Have mercy on us",
+        "text": "LORD God our heavenly Father",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 8,
+        "type": "minister_direction",
+        "title": "Congregation",
+        "speaker": "",
+        "rubric": "",
+        "text": "Have mercy on us",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -112,7 +123,29 @@
         "title": "Minister",
         "speaker": "",
         "rubric": "",
-        "text": "Congregation: Have mercy on us",
+        "text": "LORD Jesus Christ the Lamb of God",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 9,
+        "type": "minister_direction",
+        "title": "Congregation",
+        "speaker": "",
+        "rubric": "",
+        "text": "Have mercy on us",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 9,
+        "type": "minister_direction",
+        "title": "Minister",
+        "speaker": "",
+        "rubric": "",
+        "text": "LORD Holy Spirit of God our Helper",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -120,10 +153,10 @@
       {
         "order": 10,
         "type": "minister_direction",
-        "title": "Minister",
+        "title": "Congregation",
         "speaker": "",
         "rubric": "",
-        "text": "Congregation: Have mercy on us\n(Then the minister standing, facing the congregation shall say):\nAlmighty God our heavenly Father has had mercy upon us and has given His only Son to die for us, and for His sake forgives us all our sins. To them that believe on His Name, He gives power to become sons of God, and has promised them His Holy Spirit. He that believes and is baptized shall be saved. Grant this O Lord unto us all. Amen.",
+        "text": "Have mercy on us\n(Then the minister standing, facing the congregation shall say):\nAlmighty God our heavenly Father has had mercy upon us and has given His only Son to die for us, and for His sake forgives us all our sins. To them that believe on His Name, He gives power to become sons of God, and has promised them His Holy Spirit. He that believes and is baptized shall be saved. Grant this O Lord unto us all. Amen.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -134,7 +167,7 @@
         "title": "Minister",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "(Shall say let us all rise and sing the Doxology, then the minister and congregation standing shall say):",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
