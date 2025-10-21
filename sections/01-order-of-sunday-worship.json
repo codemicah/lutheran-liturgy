@@ -35,19 +35,7 @@
         "title": "Opening prayer",
         "speaker": "",
         "rubric": "",
-        "text": "(The pastor officiating kneels before the altar while the Deacon (lay assistant) leads in prayer saying let us pray):\nO Lord, we have come into this your house to worship You and to hear what You God the Father, You Jesus Christ our Saviour, and You Holy Spirit our Comforter in life and in death, will speak unto us. Lord, open now our hearts by your Holy Spirit for the sake of Jesus Christ, so that we may learn from your Word to repent of our sins, and to believe in Jesus Christ in life and in death, and to grow day by day in grace and holy living. Lord hear, and grant this for the sake of Jesus Christ your Son. Amen.\n\nInvocation: In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\nMinister: Let us continue our service by singing Hymn\nMinister: Let us continue our service by singing Hymn",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-
-      {
-        "order": 5,
-        "type": "hymn",
-        "title": "Hymn",
-        "speaker": "",
-        "rubric": "",
-        "text": "",
+        "text": "(The pastor officiating kneels before the altar while the Deacon (lay assistant) leads in prayer saying let us pray):\nO Lord, we have come into this your house to worship You and to hear what You God the Father, You Jesus Christ our Saviour, and You Holy Spirit our Comforter in life and in death, will speak unto us. Lord, open now our hearts by your Holy Spirit for the sake of Jesus Christ, so that we may learn from your Word to repent of our sins, and to believe in Jesus Christ in life and in death, and to grow day by day in grace and holy living. Lord hear, and grant this for the sake of Jesus Christ your Son. Amen.\n\nInvocation: In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\nMinister: Let us continue our service by singing Hymn\nMinister: Let us continue our service by singing Hymn.\nHymn ",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -69,84 +57,7 @@
         "title": "The Kyrie",
         "speaker": "",
         "rubric": "",
-        "text": "(The minister shall say the first line while the congregation responds with the next line).",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 8,
-        "type": "minister_direction",
-        "title": "Minister",
-        "speaker": "",
-        "rubric": "",
-        "text": "LORD God our heavenly Father",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 8,
-        "type": "minister_direction",
-        "title": "Congregation",
-        "speaker": "",
-        "rubric": "",
-        "text": "Have mercy on us",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 9,
-        "type": "minister_direction",
-        "title": "Minister",
-        "speaker": "",
-        "rubric": "",
-        "text": "LORD Jesus Christ the Lamb of God",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 9,
-        "type": "minister_direction",
-        "title": "Congregation",
-        "speaker": "",
-        "rubric": "",
-        "text": "Have mercy on us",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 9,
-        "type": "minister_direction",
-        "title": "Minister",
-        "speaker": "",
-        "rubric": "",
-        "text": "LORD Holy Spirit of God our Helper",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 10,
-        "type": "minister_direction",
-        "title": "Congregation",
-        "speaker": "",
-        "rubric": "",
-        "text": "Have mercy on us\n(Then the minister standing, facing the congregation shall say):\nAlmighty God our heavenly Father has had mercy upon us and has given His only Son to die for us, and for His sake forgives us all our sins. To them that believe on His Name, He gives power to become sons of God, and has promised them His Holy Spirit. He that believes and is baptized shall be saved. Grant this O Lord unto us all. Amen.",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 11,
-        "type": "minister_direction",
-        "title": "Minister",
-        "speaker": "",
-        "rubric": "",
-        "text": "(Shall say let us all rise and sing the Doxology, then the minister and congregation standing shall say):",
+        "text": "(The minister shall say the first line while the congregation responds with the next line).\n\nMinister: LORD God our heavenly Father\nCongregation: Have mercy on us\nMinister: LORD Jesus Christ the Lamb of God\nCongregation: Have mercy on us\nMinister: LORD Holy Spirit of God our Helper\nCongregation: Have mercy on us\n(Then the minister standing, facing the congregation shall say):\nAlmighty God our heavenly Father has had mercy upon us and has given His only Son to die for us, and for His sake forgives us all our sins. To them that believe on His Name, He gives power to become sons of God, and has promised them His Holy Spirit. He that believes and is baptized shall be saved. Grant this O Lord unto us all. Amen.\nMinister: (Shall say let us all rise and sing the Doxology, then the minister and congregation standing shall say):",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -157,29 +68,7 @@
         "title": "Doxology",
         "speaker": "",
         "rubric": "",
-        "text": "Praise God from whom all blessings flow\nPraise Him all creatures here below\nPraise Him above all you heavenly hosts\nPraise Father, Son and Holy Spirit. Amen.",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 13,
-        "type": "minister_direction",
-        "title": "Minister",
-        "speaker": "",
-        "rubric": "",
-        "text": "",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 14,
-        "type": "congregation",
-        "title": "Congregation",
-        "speaker": "",
-        "rubric": "",
-        "text": "And with your spirit too",
+        "text": "Praise God from whom all blessings flow\nPraise Him all creatures here below\nPraise Him above all you heavenly hosts\nPraise Father, Son and Holy Spirit. Amen.\nMinister: The LORD be with you\nCongregation: And with your spirit too\nMinister shall say let us Pray (This prayer is the collect for the day)",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
