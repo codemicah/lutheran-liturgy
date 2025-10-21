@@ -175,10 +175,10 @@
       {
         "order": 12,
         "type": "doxology",
-        "title": "Doxology: Praise God from whom all blessings flow",
+        "title": "Doxology",
         "speaker": "",
         "rubric": "",
-        "text": "Praise Him all creatures here below\nPraise Him above all you heavenly hosts\nPraise Father, Son and Holy Spirit. Amen.",
+        "text": "Praise God from whom all blessings flow\nPraise Him all creatures here below\nPraise Him above all you heavenly hosts\nPraise Father, Son and Holy Spirit. Amen.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -197,21 +197,10 @@
       {
         "order": 14,
         "type": "rubric",
-        "title": "Congregation:\\s*And with your spirit too",
+        "title": "Congregation",
         "speaker": "",
         "rubric": "",
-        "text": "",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 15,
-        "type": "collect",
-        "title": "The Collect",
-        "speaker": "",
-        "rubric": "",
-        "text": "",
+        "text": "And with your spirit too",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -266,7 +255,7 @@
         "title": "The Creed/Baptism/Confirmation/Consecration and other Rites",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "The minister and congregation standing shall say the Creed",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -299,7 +288,7 @@
         "title": "Announcements",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "(To be made by one of the elders)",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -351,7 +340,7 @@
       {
         "order": 28,
         "type": "rubric",
-        "title": "Offering\\s*/\\s*Offertory Prayer",
+        "title": "Offering /Offertory Prayer",
         "speaker": "",
         "rubric": "",
         "text": "",
@@ -365,7 +354,7 @@
         "title": "Holy Communion (when celebrated)",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "(Holy Communion whenever it is to be celebrated)",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -376,7 +365,7 @@
         "title": "The Last Prayer",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "The minister shall go to the altar, kneel and offer the last prayer.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -398,7 +387,7 @@
         "title": "Minister",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "The Lord be with you",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -406,10 +395,10 @@
       {
         "order": 33,
         "type": "rubric",
-        "title": "Congregation:\\s*And with your spirit too",
+        "title": "Congregation",
         "speaker": "",
         "rubric": "",
-        "text": "",
+        "text": "And with your spirit too",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -421,6 +410,17 @@
         "speaker": "",
         "rubric": "",
         "text": "The Lord make His face shine upon you, and be gracious to you.\nThe Lord lift up His countenance upon you, and give you peace.\nCongregation: Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 33,
+        "type": "rubric",
+        "title": "Congregation",
+        "speaker": "",
+        "rubric": "",
+        "text": "Amen.\n(When it is a lay person officiating, the grace of the Apostles rather than the Aaronic benediction is to be said). \n\n The grace of our Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all. Amen.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
