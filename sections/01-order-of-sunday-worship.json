@@ -43,10 +43,10 @@
       {
         "order": 3,
         "type": "invocation",
-        "title": "Invocation",
+        "title": "",
         "speaker": "minister",
         "rubric": "",
-        "text": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.",
+        "text": "Invocation: In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\nMinister: Let us continue our service by singing Hymn",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -54,10 +54,10 @@
       {
         "order": 4,
         "type": "minister_direction",
-        "title": "Minister",
+        "title": "",
         "speaker": "",
         "rubric": "",
-        "text": "Let us continue our service by singing Hymn",
+        "text": "Minister: Let us continue our service by singing Hymn",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -79,7 +79,7 @@
         "title": "Confession of sins",
         "speaker": "minister",
         "rubric": "",
-        "text": "The minister shall say:\n\nBeloved in the Lord, if we say we have no sin, we deceive ourselves and the truth is not in us. But if we confess our sins, God is faithful and just to forgive our sins and cleanse us from all unrighteousness.\n\nLet us bow and confess our sins before the LORD our God\n(Silence for brief reflection and self examination).\n\nThe minister and congregation shall say:\nAlmighty God, our Maker and Redeemer, we poor sinners confess unto You, that we are by nature sinful and unclean, and that we have sinned against You in thought, words, and deed. We have not loved You with all our hearts; we have not loved our neighbours as ourselves. Wherefore we flee for refuge to your infinite mercy, seeking and imploring your grace, for the sake of our LORD Jesus Christ. Amen.",
+        "text": "Minister: The minister shall say:\n\nBeloved in the Lord, if we say we have no sin, we deceive ourselves and the truth is not in us. But if we confess our sins, God is faithful and just to forgive our sins and cleanse us from all unrighteousness.\n\nLet us bow and confess our sins before the LORD our God\n(Silence for brief reflection and self examination).\n\nThe minister and congregation shall say:\nAlmighty God, our Maker and Redeemer, we poor sinners confess unto You, that we are by nature sinful and unclean, and that we have sinned against You in thought, words, and deed. We have not loved You with all our hearts; we have not loved our neighbours as ourselves. Wherefore we flee for refuge to your infinite mercy, seeking and imploring your grace, for the sake of our LORD Jesus Christ. Amen.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
