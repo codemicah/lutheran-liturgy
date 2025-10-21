@@ -17,7 +17,63 @@
   },
   "content": {
     "overview": "",
-    "elements": []
+    "elements": [
+      {
+        "order": 1,
+        "type": "rubric",
+        "title": "Rubric",
+        "speaker": "",
+        "rubric": "",
+        "text": "Lutheran Day (First Sunday in October)",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 2,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "O Lord, praise and glory and might and power be ascribed unto You, for ever and ever, we thank You for your loving care to mankind whom You created; who once lived in darkness and the shadow of death, You sent us a Savior through your beloved Son Jesus Christ our Lord, through whom we got the light of the Gospel which we this day commemorate. We are thankful for the missionaries you sent who brought this light. We implore you, strengthen your workers through your Holy Spirit, to depend on you in faith, grant that we be watchful, for we know neither the day nor the hour. We pray this in the name of Jesus Christ our Lord. Amen.\n(The Last Prayer)",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 3,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Lord God, maker of heaven and earth; who through your Holy Spirit did send one man Dr. Bronnum who came from a distant country thousands of miles away to this our country Nigeria with Your Word. We remember now the day and the benefits we derive by his coming. Your Word which he brought together with your Gospel of redemption helped us how to conduct our lives in this transient world. We implore you, on this day inspire your followers in this country how we should follow Jesus example who left His glory in heaven, came down to save us from our sins, Dr. Bronnum and his colleagues left everything for the sake of your gospel. Grant us the will power to fulfill your command which enjoins us thus, Go therefore . In the name of your Son Jesus Christ our Lord, we pray this. Amen.\nThe Reformation Day",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 4,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Most merciful God, Almighty, protector of your Holy Church; we pray You to graciously accept our thanks for the restoration of your Gospel and we implore You ever more to defend your church from all error, and to preserve it in the purity of Your Word, and so rule and direct our hearts by your Holy Spirit, that we may ever continue steadfast in the faith of our Lord and Savior, Who alone is our righteousness and wisdom, our consolation and peace, and finally be brought to behold your glory; through Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit for ever and ever. Amen.\nThe Festival of Harvest",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 5,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Almighty God, most merciful Father, Who opened your hand, and satisfied the desires of every living thing: We give You most humble and hearty thanks that You have crowned the fields with your blessing, and have permitted us once more to gather in the fruits of the earth: and we implore You to bless and protect the living seed of Your Word sown in our hearts, that in the plenteous fruits of righteousness we may always present to You an acceptable thanks offering; through Jesus Christ your Son our Lord, who lives and reigns with You and the Holy Spirit, ever one true God, world without end. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      }
+    ]
   },
   "cross_references": []
 }

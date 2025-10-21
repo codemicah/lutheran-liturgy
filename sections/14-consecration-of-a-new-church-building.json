@@ -2,11 +2,11 @@
   "schema_version": "1.0.0",
   "source": {
     "document_title": "LUTHERAN ORDER OF SERVICE",
-    "section_number": 10,
-    "section_title": "Order for Blessing of Marriage",
-    "slug": "order-for-blessing-of-marriage",
+    "section_number": 14,
+    "section_title": "Consecration of a New Church building",
+    "slug": "consecration-of-a-new-church-building",
     "pages": {
-      "start": 91,
+      "start": 104,
       "end": null
     }
   },
@@ -24,7 +24,7 @@
         "title": "Rubric",
         "speaker": "",
         "rubric": "",
-        "text": "11. Order for Funeral Service .. ........... 94\n12. Consecration of a Burial ground .. 98\n13. Church Foundation laying Service 101",
+        "text": "15. Consecration of Places not consecrated for Worship....... 108\n16. Installation of a Pastor ... .............. 109\n17. Installation of other church officials .. .. 110",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []

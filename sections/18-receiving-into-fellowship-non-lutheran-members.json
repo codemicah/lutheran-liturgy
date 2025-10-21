@@ -17,7 +17,283 @@
   },
   "content": {
     "overview": "",
-    "elements": []
+    "elements": [
+      {
+        "order": 1,
+        "type": "rubric",
+        "title": "Rubric",
+        "speaker": "",
+        "rubric": "",
+        "text": "19. Dedication of a New House ... . 115\nLUTHERAN ORDER OF SERVICE\nBell Ringing",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 2,
+        "type": "opening_prayer",
+        "title": "Opening prayer",
+        "speaker": "",
+        "rubric": "",
+        "text": "(The pastor officiating kneels before the altar while the Deacon (lay assistant) leads in prayer saying let us pray):\nO Lord, we have come into this your house to worship You and to hear what You God the Father, You Jesus Christ our Saviour, and You Holy Spirit our Comforter in life and in death, will speak unto us. Lord, open now our hearts by your Holy Spirit for the sake of Jesus Christ, so that we may learn from your Word to repent of our sins, and to believe in Jesus Christ in life and in death, and to grow day by day in grace and holy living. Lord hear, and grant this for the sake of Jesus Christ your Son. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 3,
+        "type": "invocation",
+        "title": "Invocation The minister facing the congregation shall say:",
+        "speaker": "",
+        "rubric": "",
+        "text": "In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\nMinister: Let us continue our service by singing Hymn\nHymn -",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 4,
+        "type": "confession_of_sins:_the_minister_shall_say",
+        "title": "Confession of sins: The minister shall say",
+        "speaker": "",
+        "rubric": "",
+        "text": "Beloved in the Lord, if we say we have no sin, we deceive ourselves and the truth is not in us. But if we confess our sins, God is faithful and just to forgive our sins and cleanse us from all unrighteousness.\nLet us bow and confess our sins before the LORD our God\n(Silence for brief reflection and self examination).",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 5,
+        "type": "the_minister_and_congregation_shall_say",
+        "title": "The minister and congregation shall say",
+        "speaker": "",
+        "rubric": "",
+        "text": "Almighty God, our Maker and Redeemer, we poor sinners confess unto You, that we are by nature sinful and unclean, and that we have sinned against You in thought, words, and deed. We have not loved You with all our hearts; we have not loved our neighbours as ourselves. Wherefore we flee for refuge to your infinite mercy, seeking and imploring your grace, for the sake of our LORD Jesus Christ. Amen.\nThe Kyrie: (The minister shall say the first line while the congregation responds with the next line).\nMinister: LORD God our heavenly Father\nCongregation: Have mercy on us\nMinister: LORD Jesus Christ the Lamb of God\nCongregation: Have mercy on us\nMinister: LORD Holy Spirit of God our Helper\nCongregation: Have mercy on us",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 6,
+        "type": "(then_the_minister_standing,_facing_the_congregation_shall_say)",
+        "title": "(Then the minister standing, facing the congregation shall say)",
+        "speaker": "",
+        "rubric": "",
+        "text": "Almighty God our heavenly Father has had mercy upon us and has given His only Son to die for us, and for His sake forgives us all our sins. To them that believe on His Name, He gives power to become sons of God, and has promised them His Holy Spirit. He that believes and is baptized shall be saved. Grant this O Lord unto us all. Amen.\nMinister: (Shall say let us all rise and sing the Doxology, then the minister and congregation standing shall say):",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 7,
+        "type": "doxology",
+        "title": "Doxology Praise God from whom all blessings flow",
+        "speaker": "",
+        "rubric": "",
+        "text": "Praise Him all creatures here below\nPraise Him above all you heavenly hosts\nPraise Father, Son and Holy Spirit. Amen.\nMinister: The LORD be with you\nCongregation:\tAnd with your spirit too\nMinister shall say let us Pray (This prayer is the collect for the day)\nThe Collect -\nAt the end, the congregation shall say: Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 8,
+        "type": "old_testament_lesson",
+        "title": "Old Testament Lesson",
+        "speaker": "",
+        "rubric": "",
+        "text": "The minister facing the congregation shall announce and read the lesson for the day. At the end shall say: The Lord bless His word in your hearts. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 9,
+        "type": "hymn",
+        "title": "Hymn",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 10,
+        "type": "the_epistle_for_the_day",
+        "title": "The Epistle for the Day",
+        "speaker": "",
+        "rubric": "",
+        "text": "The minister facing the congregation shall announce and read the assigned text. At the end shall say: The Lord bless His word in your hearts. Amen.\nThe Creed/Baptism/Confirmation/Consecration and other Rites",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 11,
+        "type": "the_minister_and_congregation_standing_shall_say_the_creed",
+        "title": "The minister and congregation standing shall say the Creed",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 12,
+        "type": "the_creed",
+        "title": "The Creed",
+        "speaker": "",
+        "rubric": "",
+        "text": "I renounce the devil and all his works, and all his ways. I believe in God the Father Almighty, Maker of heaven and earth. And in Jesus Christ His only Son our Lord; who was conceived by the Holy Spirit, born of the Virgin Mary; suffered under Pontius Pilate, was crucified, dead and buried; He descended into hell; The third day He rose again from the dead; He ascended into heaven and is seated at the right hand of God the Father Almighty; from there He shall come to judge the living and the dead. I believe in the Holy Spirit; the Holy Christian Church, the Communion of Saints; the forgiveness of sins; the Resurrection of the body; and the life everlasting. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 13,
+        "type": "announcements",
+        "title": "Announcements (To be made by one of the elders)",
+        "speaker": "",
+        "rubric": "",
+        "text": "Congregational prayers by 2 people",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 14,
+        "type": "hymn",
+        "title": "Hymn",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 15,
+        "type": "sermon",
+        "title": "Sermon",
+        "speaker": "",
+        "rubric": "",
+        "text": "The preacher mounts the pulpit and announces the Gospel Text. The congregation shall stand for the reading of the gospel text as they sing a chorus.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 16,
+        "type": "hymn",
+        "title": "Hymn",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 17,
+        "type": "offering",
+        "title": "Offering /Offertory Prayer",
+        "speaker": "",
+        "rubric": "",
+        "text": "(Holy Communion whenever it is to be celebrated)\nThe Last Prayer: The minister shall go to the altar, kneel and offer the last prayer.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 18,
+        "type": "benediction",
+        "title": "Benediction",
+        "speaker": "",
+        "rubric": "",
+        "text": "Minister: The Lord be with you\nCongregation: And with your spirit too\nMinister: The Lord bless you and keep you\nThe Lord make His face shine upon you, and be gracious to you.\nThe Lord lift up His countenance upon you, and give you peace.\nCongregation: Amen.\n(When it is a lay person officiating, the grace of the Apostles rather than the Aaronic benediction is to be said).\nThe grace of our Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 19,
+        "type": "hymn",
+        "title": "Hymn",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 20,
+        "type": "closing_prayer",
+        "title": "Closing Prayer To be offered by a lay assistant who shall begin saying; let us pray:",
+        "speaker": "",
+        "rubric": "",
+        "text": "O Lord, we thank You with all our hearts that You have taught us what to believe and what to do. Help us now God through your Holy Spirit for the sake of Jesus Christ; that we may keep your Word in pure hearts, and be thereby strengthened in faith, improve in Holy living, and be comforted in life and in death. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 21,
+        "type": "the_lord_s_prayer",
+        "title": "The Lord s Prayer",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 22,
+        "type": "general_prayer",
+        "title": "General prayer I:",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 23,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Almighty God our heavenly father, thank You for your bountiful Love and grace bestowed unto us through your blessed holy Word; by means of which your Holy Church is gathered everywhere as we are gathered here too. We ask you to grant us your Holy Spirit to help us receive your Word whole heartedly, and to obey it so that we may grow day by day in faith, hope and love. Help us to preach your Word without fear, fill us with love for you and our fellow humans. We also pray your Church everywhere, in Nigeria and the world over. Direct our government officials, the legislators, traditional rulers and special advisers. Help them to discharge their duties faithfully and justly. Bless our president, guide him protect his life and body that he may discharge his duties rightly before You. Guide us all in our daily activities in this world that we may remain blessed forever; through your Son Jesus Christ, Who lives and reigns with You and the Holy Spirit, one God, world without end. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 24,
+        "type": "general_prayer",
+        "title": "General Prayer II:",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 25,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Almighty God, our heavenly Father, we are most grateful unto You for granting our requests be made known unto You in all aspects through prayers, supplications and thanksgiving; You also willed that we gather to praise You, exalt You, and to make known your name. We pray You to help us through your Holy Spirit, that we may always pray to You and sing your praise in our hearts. Help us direct our ways with the uprightness You have given us through holy admonition and prayer, and be gathered from all the four corners of the world when Jesus Christ Your Son shall come, with all the hosts of angels shall ascribe all blessings, and honour, and power, and glory to You, Holy and Righteous Father, world without end. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      }
+    ]
   },
   "cross_references": []
 }

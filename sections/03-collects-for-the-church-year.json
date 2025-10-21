@@ -17,7 +17,442 @@
   },
   "content": {
     "overview": "",
-    "elements": []
+    "elements": [
+      {
+        "order": 1,
+        "type": "collect",
+        "title": "Christmas Day (Nativity of our Lord)",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, we give thanks unto You, that of Your great mercy and compassion You did suffer Your dear Son to become incarnate, and through Him redeem us from sin and everlasting death; We implore You, enlighten our hearts by Your Holy Spirit, that we may ever be thankful for such grace, and comfort ourselves with the same in all tribulation and temptation, and at last obtain eternal salvation through the same Your Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, mercifully direct our ways that we may walk in your law, and be made to abound in good works through your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          },
+          {
+            "order": 2,
+            "type": "collect_c",
+            "title": "C",
+            "speaker": "",
+            "rubric": "",
+            "text": "Sunday after Christmas\nLet us pray:",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 2,
+        "type": "collect",
+        "title": "New Year s Eve",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Almighty God, most gracious Father, from Whom we do constantly receive all manner of good which we have in no wise merited, we give You thanks that in the year which is now drawing to a close, You have so graciously and mighty protected us, and have bestowed upon us so many blessings both temporal and spiritual, and we pray You, enable us by Your Holy Spirit to acknowledge all these Your benefits, that we may evermore thank and praise You for Your goodness and mercy; through our Lord Jesus Christ, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 3,
+        "type": "collect",
+        "title": "New Year",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "O merciful and eternal God, heavenly Father Who did cause Your Son to become incarnate and to be made subject to the law, that we might be redeemed from the curse of the law: We implore You, grant us grace to become partakers of this redemption and thus obtain eternal salvation through the same Your beloved Son Jesus Christ, our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nOr\nAlmighty and everlasting God, from Whom comes down every good and perfect gift; we give You thanks for all Your temporal and spiritual benefits bestowed upon us in the year past, and we implore You of Your goodness, grant us a favorable and joyful year, defend us from all dangers and adversities, and send upon us the fullness of Your blessing; through Jesus Christ Your Son our Lord, who lives and reigns with You and the Holy Spirit, ever one God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 4,
+        "type": "collect",
+        "title": "C: Lord God, because of you we are not consumed, because of your pity we are not made slaves. Your love is new every day. Come dwell with us through out this year and guide us in everything. In our shortcoming and frailty, help us. Forgive our sins. Visit your elect church and build her yourself so she can stand in this New Year. Nourish her with your word and Sacrament. Look upon our country with favor and love and the entire world with your love; fill her with your wisdom. Fill our world leaders and advisers with the thoughts of leading with your fear. We bring the world , the Church, our families and ourselves before you, come among us with your power, through your beloved Son Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one true God, world without end. Amen.",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 5,
+        "type": "collect",
+        "title": "Sunday after New Year",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "O Lord God our heavenly Father, Who did suffer your dear Son Jesus Christ to become a stranger and sojourner in Egypt for our sakes, and did lead Him safe home to His fatherland. Mercifully grant that we poor sinners who are strangers and sojourners in this perilous world may soon be called home to our true fatherland, the kingdom of heaven, where we shall live in eternal joy and glory through the merits of Your Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 6,
+        "type": "collect",
+        "title": "The Epiphany of our Lord",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, Who has given us the light of Your holy Word, the guiding star which leads us to the Christ child: Send we implore You, Your Holy Spirit into our hearts that we may receive this light and make use of it unto our salvation, and that we like the wise men, they were seeking the star, may not be afraid because of any hardship and peril, but put all our trust in Your only begotten Son Jesus Christ our Lord as our only Savior; devote our earthly possessions to the advancement of Your kingdom, and in all things serve Him, Your only begotten, Son, Jesus, Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 7,
+        "type": "collect",
+        "title": "First Sunday after Epiphany",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, Who in mercy has established the Christian home among us. We implore you to rule and direct our hearts, that we may be good examples to children and servants, and not offend them by word or deed, but faithfully teach them to love Your Church and hear your blessed Word. Give them Your Spirit and grace, that this seed may bring forth good fruit so that our home life may conduce to Your glory, honor and praise, to our own improvement and welfare, and give offense to no one; through the same Your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 8,
+        "type": "collect",
+        "title": "Second Sunday after Epiphany",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, we thank You that of Your grace You have instituted holy matrimony. We implore You to send Your blessing upon every husband and wife that they may not provoke each other to anger and strife but live peaceably together in love and godliness, receive Your gracious help in all temptations, and bring up their children in accordance with Your will; grant unto us all to walk before You in purity and holiness, to put all our trust in You, and lead such lives on earth, that in the world to come we may have everlasting life through the same, Your beloved Son Jesus Christ our Lord Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 9,
+        "type": "collect",
+        "title": "Third Sunday after Epiphany",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Almighty and everlasting God, mercifully look upon our infirmities and in all our dangers and necessities stretch forth the right hand of your majesty to help and defend us; through Jesus Christ our Lord, Who lives and reigns with you and the Holy Spirit, ever one God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 10,
+        "type": "collect",
+        "title": "Fourth Sunday after Epiphany",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, Who in Your divine wisdom and fatherly goodness made Your children to bear the cross and send divers afflictions upon us to subdue the flesh and quicken our hearts unto faith, hope and unceasing prayer: We implore You to have mercy upon us and graciously deliver us out of our trials and temptations so that we may perceive Your grace and fatherly help, and with all saints forever praise and worship You; through Your dear Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 11,
+        "type": "collect",
+        "title": "Fifth Sunday after Epiphany",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, we thank You that You have sown the good seed, Your holy word, in our hearts: We pray You that by Your Holy Spirit You will cause this seed to grow and bring forth fruit and defend us from the enemy, that we may not sow tares therein. Keep us from carnal security, help us in all temptations and give us at last eternal salvation; through your beloved Son, Who lives and reigns with you and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 12,
+        "type": "collect",
+        "title": "Sixth Sunday after Epiphany",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "O merciful and everlasting God, heavenly Father: We thank You that You have revealed unto us the glory of Your Son, and let the Light of Your Gospel shine upon us: We pray You, guide us by this light that we may walk diligently as Christians in all good works, ever be strengthened by Your grace and conduct our lives in all godliness: through the same Your beloved Son Jesus Christ our Lord; who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 13,
+        "type": "collect",
+        "title": "Septuagesima Sunday",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, Who through Your holy Word has called us unto Your vineyard: Send, that we may labor faithfully in Your vineyard, shun sin and all offense, obediently keep Your word and do Your will, and put our whole and only trust in Your grace, which You have bestowed upon us so plenteously through Your Son Jesus Christ, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 14,
+        "type": "collect",
+        "title": "Sexagesima Sunday",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 15,
+        "type": "collect",
+        "title": "Quinquagesima Sunday",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Lord God our heavenly Father, Who did manifest Yourself, with the Holy Spirit in the fullness of grace at the baptism of Your dear Son, and with Your voice did direct us to him who has borne our sins, that we might receive grace and the remission of sins; Keep us, we implore You, in the true faith; and inasmuch as we have been baptized in accordance with Your command, and the example of Your dear Son, we pray You to strengthen our faith by Your Holy Spirit, and lead us to everlasting life and salvation, through Your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit; One true God, world without end. Amen.\nLord God our heavenly Father, inasmuch as the adversary do continually afflict us, and as a roaring lion do walk about seeking to devour us: We implore You for the sake of the suffering and death of Jesus Christ Your Son to help us by the grace of the Holy Spirit, and to strengthen our hearts by Your Word, that our enemy may not prevail over us, but that we may ever more abide in Your grace, and be preserved unto everlasting life through the same Your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God world without end. Amen.\nLord God our heavenly Father, grant us we implore You by Your Holy Spirit, that He may strengthen our hearts and confirm our faith and hope in Your grace and mercy, so that although we have reason to fear because of our conscience, our sin, and our unworthiness, we may nevertheless, with the woman of Canaan, hold fast to Your grace, and in every trial and temptation find You a very present help and refuge, through Your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, Who has sent Your Son our Lord Jesus Christ to take upon Himself our flesh, that He might destroy the works of the devil and defend us poor sinners against his power: We give thanks unto You for Your merciful help and we implore You to attend us with Your grace in all temptations, to preserve us from carnal security, and by Your Holy Spirit keep us in Your Word and Your fear, that unto the end we may be delivered from the enemy, and obtain eternal salvation, through the same Your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, Who by Your Son fed five thousand men in the desert with five loaves and two fishes: We implore you to abide graciously also with us in the fullness of your blessing. Preserve us from avarice and the cares of this life, which we may seek first your kingdom and your righteousness, through Jesus Christ, Who lives and reigns with you and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          },
+          {
+            "order": 2,
+            "type": "collect_c",
+            "title": "C",
+            "speaker": "",
+            "rubric": "",
+            "text": "First Sunday in Lent\nLet us pray:\nSecond Sunday in Lent\nLet us pray:\nThird Sunday in Lent\nLet us pray:\nFourth Sunday in Lent\nLet us pray:",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 16,
+        "type": "collect",
+        "title": "The Annunciation Sunday",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Almighty God, Who of Your great mercy caused Your Son to be conceived by the Holy Spirit and to be born of the blessed Virgin Mary according to the angel s annunciation: Grant us by Your grace, that we who were conceived and born in sin, but have been born again of water and the Holy Spirit, may as Your children lead a holy life, and at last obtain eternal salvation through Your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 17,
+        "type": "collect",
+        "title": "Palm Sunday",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "Almighty and everlasting God, Who has sent Your Son, our Savior Jesus Christ to take upon Him our flesh, and to suffer death upon the cross that all mankind should follow the example of His great humility: Mercifully grant that we may both follow the example of His patience, and also be made partakers of His resurrection; through the same Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, ever one God world without end. Amen.\nO Lord Jesus Christ, we thank you that of your infinite mercy you have instituted this Your Sacrament in which we eat Your Body and drink. Your Blood: Grant us, we implore You by Your Holy Spirit that we may not receive this gift unworthily, but that we may confess our sins, remember Your agony and death, believe the forgiveness of sin, and day by day grow in faith and love until we obtain eternal salvation through You Who lives and reigns with the Father and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, Who has willed that Your Son should bear for us the pains of the cross, that you might remove from us the power of the adversary. Help us to remember and give thanks for our Lord s passion that we may receive the remission of sin and redemption from everlasting death, through the same our Lord Jesus Christ. Amen.\nLord God our heavenly Father, Who delivered You Son for our offenses, and raised Him again for our justification: We implore You, grant us Your Holy Spirit that He may rule and govern us according to Your will; graciously keep us in the true faith; defend us from all sins, and after this life raise us unto eternal life, through the same Your beloved Son Jesus Christ, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we thank you that of your ineffable grace, for the sake of Your Son, You have given us the holy Sacraments, that through the same we may have comfort and forgiveness of sin. We implore you, grant us Your Holy Spirit that we may establish our faith until we at last obtain salvation through Jesus Christ our Lord, Who lives and reigns with you and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, Who of Your fatherly goodness have been mindful of us poor miserable sinners and have given Your beloved Son to be our shepherd, not only to nourish us by His Word, but also to defend us from sin, death, and the devil: We implore You, grant us Your Holy Spirit that even as this Shepherd do know us and succor us in every affliction, we also may know Him, and trusting in Him, seek help and comfort in Him, from our hearts obey His voice, and obtain eternal salvation, through the same Your Son Jesus Christ, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, Who of Your fatherly goodness suffer Your children to come under Your chastening rod here on earth, that we may be like unto Your only begotten Son in suffering and hereafter in glory: We implore You comfort us in temptations and afflictions by Your Holy Spirit, that we may not fall into despair, but that we may continually trust in Your Son s promise, that our trials will endure but a little while, and will then be followed by eternal joy; that we thus in patient hope may overcome all evil, and at last obtain eternal salvation, through the same Your Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit one true God, world without end. Amen.\nLord God our heavenly Father, Who through Your Son did promise us Your Holy Spirit, that He should convince the world of sin, of righteousness, and of judgment: We implore You, enlighten our hearts that we may confess our sins, through faith in Christ obtain everlasting righteousness, and in all our trials and temptations retain this consolation that Christ is Lord over the devil and death, and all things, and that He will graciously deliver us out of all our afflictions, and make us forever partakers of eternal salvation, through the same Your Son Jesus Christ, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, Who through Your Son did promise us that whatsoever we ask in His name You will give us. We implore You, keep us in Your Word, and grant us Your Holy Spirit that He may govern us according to Your will, protect us from the power of the devil, from false doctrine and worship; also defend our lives against all danger; grant us Your blessing and peace that we may in all things perceive Your merciful help, and both now and forever praise and glorify You as our gracious Father, through our Lord Jesus Christ Your Son, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLORD Jesus Christ, Almighty Son of God art no longer in humiliation here on earth, but seated at the right hand of Your Father, Lord over all things. We implore You, send us Your Holy Spirit, give Your Church pious pastors, preserve Your Word, control and restrain the devil and all who would oppress us; mightily uphold Your Kingdom, until all Your enemies shall have been put under Your feet, that we may hold the victory over sin, death, and the devil, through You, Who lives and reigns with God the Father and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we give thanks to You that through Your Holy Spirit has appointed us to bear witness of Your dear Son. Jesus Christ our Lord. We implore You, inasmuch as the world cannot endure such testimony, and persecutes us in every way, grant us courage and comfort, that we may not be offended because of the cross, but continue steadfastly in Your testimony, and be found always among those who know You and Your Son, until we obtain eternal salvation through the same Your Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nO Lord Jesus Christ Almighty Son of God, we thank You that You have established Your Church on earth and have called us unto holiness: We implore You, send Your Holy Spirit into our hearts through Your will, comfort us in every temptation and misfortune, and defend us by Your truth against every error so that we may continue steadfast in the faith, increase in love and all good works, and firmly trusting in Your grace, which through death You have purchased for us, obtain eternal salvation You Who reigns with the Father and the Holy Spirit, one true God, world without end. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          },
+          {
+            "order": 2,
+            "type": "collect_c",
+            "title": "C",
+            "speaker": "",
+            "rubric": "",
+            "text": "Maundy (Holy) Thursday\nLet us pray:\nGood Friday\nLet us pray:\nEaster\nLet us pray:\nFirst Sunday after Easter\nLet us pray:\nSecond Sunday after Easter\nLet us pray:\nThird Sunday after Easter\nLet us pray:\nFourth Sunday after Easter\nLet us pray:\nFifth Sunday after Easter\nLet us pray:\nAscension Day\nLet us pray:\nSixth Sunday after Easter\nLet us pray:\nPentecost Day\nLet us pray:",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      },
+      {
+        "order": 18,
+        "type": "collect",
+        "title": "Trinity Sunday",
+        "speaker": "",
+        "rubric": "",
+        "text": "",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": [
+          {
+            "order": 1,
+            "type": "collect_ab",
+            "title": "A&B",
+            "speaker": "",
+            "rubric": "",
+            "text": "O Lord God our heavenly Father. We poor sinners confess that in our flesh dwells no good thing, and that left to ourselves, we die and perish in sin, since that which is born of the flesh is flesh and cannot see the kingdom of God. but we implore You: Grant us Your grace and mercy, and for the sake of Your Son Jesus Christ, send Your Holy Spirit into our hearts, that being regenerate, we may firmly believe the forgiveness of sins, according to Your promise in baptism; and that we may daily increase in brotherly love, and in other good works, until we at last obtain eternal salvation, through the same Your beloved Son, Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we implore You to rule and govern our hearts by Your Holy Spirit, that we may not like the rich man hear Your Word in vain and become so devoted to things temporal as to forget things eternal, but that we readily and according to our ability minister to such as are in need and not defile ourselves with surfeiting and pride, trial and misfortune, keep us from despair and grant us to put our trust wholly in Your Fatherly help and grace, so that in faith and Christian patience we may overcome all things, through Your Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we give thanks to You that through Your holy Word You have called us to Your great Supper, and we implore You: Quicken our hearts by Your Holy Spirit that we may not hear Your Word without fruit, but that we may prepare ourselves rightly for Your kingdom and not suffer ourselves to be hindered by any worldly care, through your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father; we all like sheep have gone astray, having suffered ourselves to be led away from the right path by Satan and our own sinful flesh. We implore You graciously, to forgive us all our sins for the sake of Your Son Jesus Christ, and quicken our hearts by Your Holy Spirit, that we may abide in Your Word, and in true repentance and a steadfast faith continue in Your Church unto the end, and obtain eternal salvation, through our Lord Jesus Christ Your Son, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, Who art merciful, and through Christ did promise us that You will neither judge nor condemn us, but graciously forgive our sins, and abundantly provide for all our wants of body and soul: We pray You that by Your Holy Spirit, Your will establish in our hearts a confident faith in Your mercy and teach us also to be merciful to our neighbors, that we may not judge or condemn others, but willingly forgive all men, and judging only ourselves, lead blessed lives in Your fear, through Your dear Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end.\nO Jesus Christ Son of the living God who have given us your Holy Word, and have bountifully provided for all our temporal wants, we confess that we are unworthy of all these mercies, and that we have rather deserved punishment: but we implore you, forgive us our sins, and prosper and bless us in our several calling that by your strength we may be sustained and defended, now and forever, and so praise and glorify you eternally, you who lives and reigns with the Father and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we confess that we are poor, wretched sinners, and that there is no good in us, our hearts, flesh and blood being so corrupted by sin, that we never in this life can be without sinful lusts and desires; therefore we implore you dear Father, forgive us these sins and let your Holy Spirit cleanse our hearts that we may desire and love your word, abide by it, and thus by your grace by forever saved; through our Lord Jesus Christ your Son, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, who in the wilderness did by your Son abundantly, feed four thousand men besides women and children with seven loaves and a few small fishes. We implore you, graciously abide among us with your blessing and keep us from covetousness and the cares of this life, that we may seek first your kingdom and your righteousness, and in all things needful for body and soul, experience your ever- present help; through your Son Jesus Christ, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we most heartily thank You that You have caused us to come to the knowledge of your word. We pray you; graciously keep us steadfast in this knowledge unto death that we may obtain eternal life, send us now and ever pious pastors, who faithfully preach your word without offense or false doctrine, and grant them long life. Defend us from all false teachings and frustrate the counsels of all those who pervert your word, who come to us in sheep s clothing, but are inwardly ravening wolves, that your true church may evermore be established among us, and be defended and preserved from such false teachers, through Jesus Christ your Son, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, who have bountifully given us your blessing and our daily bread: We implore You, preserve us from covetousness, and so quicken our hearts that we willingly share your blessed gifts with our needy brethren, that we may be found faithful stewards of your gifts, and abide in your grace when we shall be removed from our stewardship, and shall come before your judgment through our Lord Jesus Christ your Son, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, who by your Holy Spirit have revealed unto us the gospel of your Son Jesus Christ; We implore You to quicken our hearts that we may sincerely receive your word and not make light of it, or hear it without fruit, as did your people, the unbelieving Jews, but that we may fear You and daily grow in faith in your mercy and finally obtain eternal salvation, through your Son Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we implore You to guide and direct us by your Holy Spirit, that we may not forget our sins and be filled with pride, but continue in daily repentance and renewal, seeking our comfort only in the blessed knowledge that You will be merciful unto us, forgive us our sins and grant us eternal life; through your beloved Son Jesus Christ our Lord, who lives and reigns with You, and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, who have created all things: We thank You that You have giving us sound bodies, and have graciously preserved our tongues and other members from the power of the adversary: We implore You, grant us your grace that we may rightly use our ears and tongues, help us to hear your word diligently and devoutly, and with our tongues so to praise and magnify your grace, that no one shall be offended by our words, but that all may be edified thereby, through your beloved Son Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we most heartily thank You that You have granted us to live in this accepted time, when we may hear your holy Gospel, know your fatherly will, and behold your Son Jesus Christ. We pray You most merciful Father, let the light of your holy Word remain with us, and so govern our hearts by your Holy Spirit, that we may never forsake your word, remain steadfast in it, and finally obtain eternal salvation, through your beloved Son Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit; one true God, world without end. Amen.\nLord God our heavenly Father, who by your blessed word and your holy baptism have mercifully cleansed all who believe from the fearful leprosy of sin (as you did cleansed the cripple woman), and daily do grant us your gracious help in all our need. We implore You to enlighten our hearts by your Holy Spirit, that we may never forget these your blessings, but ever live in your fear, and trusting fully in your grace with thankful hearts continually praise and glorify You, through your Son Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we thank You for all your benefits that You have given us life and graciously sustained us unto this day. We implore You, take not your blessing from us, preserve us from covetousness, that we may serve You only, love and abide in You, and not defile ourselves by idolatrous love of mammon, but hope and trust only in your grace, through Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, who did sent your Son to be made flesh, that by His death He might atone for our sins and deliver us from eternal death. We pray You, confirm in our hearts the hope that our Lord Jesus Christ, who with but a word raised the widow s son, in like manner will raise us on the last day, and grant us eternal life; through your beloved Son Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father; we implore You to guide and direct us by your Holy Spirit, that we may not exalt ourselves, but humbly fear You with our whole heart and keep your word, and hallow the Lord s day, that we may also be hallowed by your word. Help us, first to place our hope and confidence in your Son Jesus Christ, who alone is our righteousness and Redeemer, and then amend and better our lives in accordance with your word, that we may avoid all offenses and finally obtain eternal salvation, through your grace in Christ, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we are poor miserable sinners, we know your will, but cannot fulfill it because of the weakness of our flesh and blood, and because our enemy the devil, will not leave us in peace. Therefore, we pray You, shed your Holy Spirit in our hearts, that in steadfast faith, we may cling to your Son Jesus Christ, find comfort in His passion and death believe the forgiveness of sin through Him, and in willing obedience of your will lead holy lives on earth, until by your grace, through a blessed death we depart from this world of sorrow and obtain eternal life, through your Son Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, who by your Son Jesus Christ, did mercifully help the palsied man both in body and soul. We implore You for the sake of your great mercy. Be gracious also unto us, forgive us all our sins, and so govern us by your Holy Spirit, that we may not ourselves be the cause of sickness and other afflictions, keep us in your fear and strengthen us by your grace, that we may escape temporal and eternal wrath and punishment, through your Son Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father; we thank You, that of your great mercy You have called us by your Holy Word to the blessed marriage feast of your Son, and through Him do forgive us all our sins; but being daily beset by temptation, offense, and danger and being weak in ourselves and given to sin, we implore you graciously to protect us by Your Holy Spirit, that we fall not, and if we fall and defile our wedding- garment, with which your Son have clothed us, graciously help us again and lead us to repentance, that we fall not forever, preserve in us a constant faith in your grace through our Lord Jesus Christ, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, who by your son have promised us the forgiveness of sins, righteousness and everlasting life. We implore You, do by your Holy Spirit quicken our hearts that we in daily prayer may seek our help in Jesus Christ against all temptations, and constantly believing His promise, obtain that for which we pray and at last be saved, through your Son Jesus Christ, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, who through your only begotten and beloved Son Jesus Christ, will sanctify all your elected and beloved; Give us grace to follow their faith, hope, and charity, that we together with them may obtain eternal life, through your Son Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and eternal God; we confess that we are poor sinners and cannot answer one of a thousand, when You contends with us; but with all our hearts we thank You, that You have taken all our guilt from us and laid it upon your dear Son Jesus Christ, and made Him to atone for it: We pray You graciously to sustain us in faith, and to govern us by your Holy Spirit, that we may live according to your will, in neighborly love, service, and helpfulness, and not give way to wrath or revenge, that we may not incur your wrath, but always find in You a gracious Father, through Jesus Christ our Lord, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we thank You that You have hitherto granted us peace and graciously spared us from war and foreign dominion: We pray You, graciously let us continue to live in your fear according to your will, giving no cause for wars or other punishment, govern and direct our magistrates, that they may not hinder the obedience due to You, but maintain righteousness, that we may enjoy happiness and blessing under their government, through our Lord Jesus Christ, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty and everlasting God, who by your Son have promised us forgiveness of our sins and deliverance from eternal death, we pray that by your Holy Spirit You will daily increase our faith in your grace through Christ, and establish us in the certain hope that we shall not die, but peacefully sleep, and be raised again on the last day to eternal life and salvation, through our Lord Jesus Christ your Son, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nLord God our heavenly Father, we most heartily thank You that by your Word You have brought us out of the darkness of error into the light of your grace. We implore You, mercifully help us to walk in that light, guard us from all error and false doctrine, and grant that we may not as the Jews, become ungrateful and despise and persecute your Word, but receive it with all our heart, govern our lives according to it, and put all our trust in your grace through the merit of your dear Son our Lord Jesus Christ, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nO Almighty, eternal and merciful God, who by your beloved Son our Lord and Saviour Jesus Christ, have established the kingdom of grace for us, that we might believe the forgiveness of our sins, in your holy Church on earth, since You are a God who has no pleasure in the death of the wicked, but that the wicked turn from his way and live: we implore You, graciously forgive us all our sins through the same your Son Jesus Christ, who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.\nAlmighty God, who rules and governs Your Holy Christian Church, we give You most hearty thanks for the plenteous blessings of the Gospel which You have granted unto us during the past year, and we implore You to bestow upon us your Holy Spirit, that by His gracious working we may be made rightly to value your precious means of grace, so that we being turned to You, may come to everlasting life through Jesus Christ Your Dear Son our Lord, who lives and reigns with You and the Holy Spirit for ever and ever. Amen.",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          },
+          {
+            "order": 2,
+            "type": "collect_c",
+            "title": "C",
+            "speaker": "",
+            "rubric": "",
+            "text": "First Sunday after Trinity\nLet us pray:\nSecond Sunday after Trinity\nLet us pray:\nThird Sunday after Trinity\nLet us pray:\nFourth Sunday after Trinity\nLet us pray:\nFifth Sunday after Trinity\nLet us pray:\nSixth Sunday after Trinity\nLet us pray:\nSeventh Sunday after Trinity\nLet us pray:\nEighth Sunday after Trinity\nLet us pray:\nNinth Sunday after Trinity\nLet us pray:\nTenth Sunday after Trinity\nLet us pray:\nEleventh Sunday after Trinity\nLet us pray:\nTwelfth Sunday after Trinity\nLet us pray:\nThirteenth Sunday after Trinity\nLet us pray:\nFourteenth Sunday after Trinity\nLet us pray:\nFifteenth Sunday after Trinity\nLet us pray:\nSixteenth Sunday after Trinity\nLet us pray:\nSeventeenth Sunday after Trinity\nLet us pray:\nEighteenth Sunday after Trinity\nLet us pray:\nNineteenth Sunday after Trinity\nLet us pray:\nTwentieth Sunday after Trinity\nLet us pray:\nTwenty- First Sunday after Trinity\nLet us pray:\nAll Saints Day\nLet us pray:\nTwenty- Second Sunday after Trinity\nLet us pray:\nTwenty-Third Sunday after Trinity\nLet us pray:\nTwenty-Fourth Sunday after Trinity\nLet us pray:\nTwenty-Fifth Sunday after Trinity\nLet us pray:\nTwenty- Sixth Sunday after Trinity\nLet us pray:\nLast Sunday of the Church Year\nLet us pray:",
+            "scripture_refs": [],
+            "hymn": null,
+            "subelements": []
+          }
+        ]
+      }
+    ]
   },
   "cross_references": []
 }

@@ -17,7 +17,52 @@
   },
   "content": {
     "overview": "",
-    "elements": []
+    "elements": [
+      {
+        "order": 1,
+        "type": "rubric",
+        "title": "Rubric",
+        "speaker": "",
+        "rubric": "",
+        "text": "(It is advisable that the church should set aside a burial ground near the church building which shall be consecrated for the burial of its members).\nChurch members shall in procession with songs march to the place to be consecrated. As the assembly gather, the pastor shall say:\nPastor: Beloved friends in Christ. Today we are gathered to seek God s blessing and with thanks we shall consecrate this burial ground to His praise. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 2,
+        "type": "hymn",
+        "title": "Hymn",
+        "speaker": "",
+        "rubric": "",
+        "text": "Scripture reading to be followed by an exhortation\nPastor: He who dwells in the shadow of the Most High.\nCongregation: Trusts in the shadow of the Almighty.\nPastor: He will surround you with His protection, and you shall find refuge under His wings.\nCongregation: His mercy shall be our shield.\nPastor: He shall give Angels your custody in their hands.\nCongregation: They will protect you in all your ways.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 3,
+        "type": "consecration",
+        "title": "Consecration of the ground",
+        "speaker": "",
+        "rubric": "",
+        "text": "Pastor: (shall read 1 Cor. 15:19-22, 42-44a,53-57 and then say:-)\nI do consecrate this ground for the burial of church members, in the Name of the Father, and of the Son and of the Holy Spirit.\nPeace be unto those who shall rest here till the great judgment day. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 4,
+        "type": "pastor:_let_us_all_pray",
+        "title": "Pastor: Let us all Pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Lord God the Father of our Lord Jesus Christ hear the supplications which we bring before You now while we consecrate this ground as a resting place for the dead. Take this place under your holy protection unto the day of resurrection.\nAlmighty and eternal God Who turns, man to destruction and says, Return you children of men, our lives are in your hands. When You call away those whom You have given us, and we lay them here in their graves, strengthen our faith, that we may bless the Name of the Lord, Who gave and Who has also taken away.\nLord Jesus Christ our ever faithful Saviour, Who for our salvation has passed through death and the grave before us, be with us in the hour of death. You who is the resurrection and the life, raise us up to everlasting life.\nO Holy Spirit, You blessed Comforter and Advocate with the Father, fill the hearts of those who mourn in this place with your consolation. Draw us heavenward when we look into the open grave, preserve us from spiritual death and eternal condemnation. O holy and most merciful Saviour deliver us not into the bitter pains of eternal death. Grant us grace to attain unto the life which is in Christ, that in Him we be made partakers of the blessed resurrection of the just, through Jesus Christ our Lord. Amen.\nPastor: May the blessings of God the Father, and of the Son, and of the Holy Spirit, be with you all. Amen.\n(The following verses of scripture may be used)\nGenesis 23:1-20\nRomans 6:3-5\n1 Thessalonians 4:13-18\nJohn 14:1-6\nJohn 19:38-46",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      }
+    ]
   },
   "cross_references": []
 }

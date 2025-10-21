@@ -17,7 +17,85 @@
   },
   "content": {
     "overview": "",
-    "elements": []
+    "elements": [
+      {
+        "order": 1,
+        "type": "rubric",
+        "title": "Rubric",
+        "speaker": "",
+        "rubric": "",
+        "text": "Blessed be the God and Father of our Lord Jesus Christ, Who according to His abundant mercy have begotten us again unto a living hope by the resurrection of Jesus Christ from the dead.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 2,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Lord God our heavenly Father, we thank You that through your only-begotten Son You have instituted Holy Baptism, in which You adopted us as your children, and gave us your Holy Spirit, the forgiveness of our sins, and life everlasting. We implore You graciously to receive this person who presents himself/ herself (these persons who present themselves) before You; admit him (her, them) into your holy church; and keep him (her, them) now and forever in your blessed communion. Amen.\n(In case of adults, or adults together with infants, this prayer shall end here, but when it is only infants, the prayer shall end here, but when it is only infants, the prayer shall\ncontinue thus:)\nWe implore You, receive this child (these children) we present before You mercifully. Admit him (her, them) into your true church; and keep him (her, them) in your blessed communion in life and death. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 3,
+        "type": "thus_says_our_lord_jesus_christ",
+        "title": "Thus says our Lord Jesus Christ",
+        "speaker": "",
+        "rubric": "",
+        "text": "All authority in heaven and on earth has been given to Me. Go therefore and make disciples of all the nations, baptizing them into the Name of the Father, and of the Son, and of the Holy Spirit; teaching them to observe all things whatsoever I have commanded you; and behold, I am with you always, even unto the end of the world.\n(In case of infant baptism, the following shall be said)",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 4,
+        "type": "and_concerning_the_little_children_jesus_said",
+        "title": "And concerning the little children Jesus said",
+        "speaker": "",
+        "rubric": "",
+        "text": "Suffer the little children to come unto Me, do not forbid them, for to such belongs the kingdom of God. Truly I say to you, whosoever shall not receive the kingdom of God as a little child, shall in no wise enter therein. And He took them in his arms and blessed them, laying his hands upon them.\nLet us therefore help this child (these children) to obtain His blessing by baptizing him (her, them) into the name of the triune God.\nReceive the sign of the holy cross upon your forehead and upon your breast as a token that you believe in and belong to the crucified Lord Jesus Christ.\n(In case of infant baptism, the pastor shall address the parent saying, I\nnow ask and you shall answer for this child:)\n-name- Do you renounce the devil and all his works and all his ways?\nAnswer: Yes, I renounce\nDo you believe in God the Father Almighty, maker of heaven and earth?\nAnswer: Yes, I believe\nDo you believe in Jesus Christ His only Son our Lord, who was conceived by the Holy Spirit, Born of the Virgin Mary, suffered under Pontius Pilate, was crucified, dead and buried, descended into hell; The third day rose again from the dead; Ascended into heaven, and seated at the right hand of God the Father Almighty, from there He shall come to judge the living and the dead?\nAnswer: Yes, I believe\nDo you believe in the Holy Spirit, the Holy Christian Church, the Communion of Saints; the forgiveness of sins; the Resurrection of the body; And the life everlasting?\nAnswer; Yes I believe\nWill you want to be baptized into this Christian faith?\nAnswer: Yes I will\n-name- I baptize you into the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\n(The Pastor lays his/her hand on the candidate and shall say:)\nAlmighty God, the Father of our Lord Jesus Christ, who has now begotten you by water and the Holy Spirit, and has forgiven you all your sins, strengthen you with His grace unto life everlasting. The Lord preserve your going out and your coming in, from this time forth and forevermore. Amen.\nPeace by unto you. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 5,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Our Father, who art in heaven; Hallowed be your Name; your kingdom come; your will be done on earth as it is in heaven; Give us this day our daily bread; And forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation, But deliver us from evil; for yours is the kingdom, and the power, and the glory, for ever and ever. Amen.\n(Charge to sponsors and parents)\nDear Christian friends who are sponsors for this child (these Christian), you are to be witnesses that he (she, they have) has received the true Christian Baptism in the Name of the Father, and of the Son, and of the Holy Spirit. You are also to remember your duty toward this child (these children) whose sponsors you are. If the parents die before he (she, they arrive) arrives at the age of discretion, you shall as far as possible, see that he (she, they are) is instructed in the principles of the Christian faith, in order that he (she, they) may continue with Christ even as he (she, they) now through baptism has (have) been grafted into Him.\nAnd you parents, who have brought your child (children) to the baptismal font, shall bear in mind the obligation taken upon yourselves, that you instruct him (her, them) in the principles of the Christian faith, and that you are to be living witnesses to the faith into which he (she, they have) has been baptized. May God so help you and grant you His blessing.\nPeace be with you Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 6,
+        "type": "let_us_pray",
+        "title": "Let us pray",
+        "speaker": "",
+        "rubric": "",
+        "text": "Lord God our heavenly Father, we thank you with all our hearts that you have admitted us unto Holy Baptism, in which for the sake of your Son, You have granted us the forgiveness of all our sins, and the life everlasting. We implore You: preserve us in the faith, lest we fall into doubt concerning your holy gifts; strengthen us by your Holy Spirit in our struggle against sin, that we may continue in the grace of our Baptism until we at last obtain eternal salvation through your beloved Son Jesus Christ our Lord, Who lives and reigns with You and the Holy Spirit, one true God, world without end. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      },
+      {
+        "order": 7,
+        "type": "benediction",
+        "title": "Benediction",
+        "speaker": "",
+        "rubric": "",
+        "text": "P:\tThe Lord be with you\nC:\tAnd with your Spirit\nP:\tThe Lord bless you and keep you.\nThe Lord make His face shine upon you and be gracious unto you.\nThe Lord lift up His countenance upon you and give you peace. Amen.",
+        "scripture_refs": [],
+        "hymn": null,
+        "subelements": []
+      }
+    ]
   },
   "cross_references": []
 }
