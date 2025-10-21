@@ -244,62 +244,7 @@
         "title": "Benediction",
         "speaker": "",
         "rubric": "",
-        "text": "",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 32,
-        "type": "minister_direction",
-        "title": "Minister",
-        "speaker": "",
-        "rubric": "",
-        "text": "The Lord be with you",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 33,
-        "type": "congregation",
-        "title": "Congregation",
-        "speaker": "",
-        "rubric": "",
-        "text": "And with your spirit too",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 34,
-        "type": "minister_direction",
-        "title": "Minister",
-        "speaker": "",
-        "rubric": "",
-        "text": "The Lord make His face shine upon you, and be gracious to you.\nThe Lord lift up His countenance upon you, and give you peace.\nCongregation: Amen.",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 33,
-        "type": "congregation",
-        "title": "Congregation",
-        "speaker": "",
-        "rubric": "",
-        "text": "Amen.\n(When it is a lay person officiating, the grace of the Apostles rather than the Aaronic benediction is to be said). \n\n The grace of our Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all. Amen.",
-        "scripture_refs": [],
-        "hymn": null,
-        "subelements": []
-      },
-      {
-        "order": 35,
-        "type": "benediction",
-        "title": "Benediction",
-        "speaker": "",
-        "rubric": "",
-        "text": "The grace of our Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all. Amen.",
+        "text": "Minister: The Lord be with you\nCongregation: And with your spirit too\nMinister: The Lord make His face shine upon you, and be gracious to you.\nThe Lord lift up His countenance upon you, and give you peace.\nCongregation: Amen.Congregation: Amen.\n(When it is a lay person officiating, the grace of the Apostles rather than the Aaronic benediction is to be said). \n\n The grace of our Lord Jesus Christ and the love of God and the fellowship of the Holy Spirit be with you all. Amen.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
@@ -321,7 +266,7 @@
         "title": "Closing Prayer",
         "speaker": "",
         "rubric": "",
-        "text": "O Lord, we thank You with all our hearts that You have taught us what to believe and what to do. Help us now God through your Holy Spirit for the sake of Jesus Christ; that we may keep your Word in pure hearts, and be thereby strengthened in faith, improve in Holy living, and be comforted in life and in death. Amen.",
+        "text": "To be offered by a lay assistant who shall begin saying; let us pray: O Lord, we thank You with all our hearts that You have taught us what to believe and what to do. Help us now God through your Holy Spirit for the sake of Jesus Christ; that we may keep your Word in pure hearts, and be thereby strengthened in faith, improve in Holy living, and be comforted in life and in death. Amen.",
         "scripture_refs": [],
         "hymn": null,
         "subelements": []
