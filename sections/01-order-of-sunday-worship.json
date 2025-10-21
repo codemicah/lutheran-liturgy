@@ -43,7 +43,7 @@
       {
         "order": 3,
         "type": "invocation",
-        "title": "",
+        "title": "Invocation",
         "speaker": "minister",
         "rubric": "",
         "text": "Invocation: In the Name of the Father, and of the Son, and of the Holy Spirit. Amen.\nMinister: Let us continue our service by singing Hymn",
@@ -54,7 +54,7 @@
       {
         "order": 4,
         "type": "minister_direction",
-        "title": "",
+        "title": "Minister",
         "speaker": "",
         "rubric": "",
         "text": "Minister: Let us continue our service by singing Hymn",
