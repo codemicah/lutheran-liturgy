@@ -59,7 +59,7 @@
     "section_number": 8,
     "section_title": "Holy Communion Service",
     "slug": "holy-communion-service",
-    "file": "sections/08-holy-communion-service-79.json",
+    "file": "sections/08-holy-communion-service.json",
     "category": "",
     "tags": []
   },
@@ -91,7 +91,7 @@
     "section_number": 13,
     "section_title": "Church Foundation laying Service",
     "slug": "church-foundation-laying-service",
-    "file": "sections/13-church-foundation-laying-service-101.json",
+    "file": "sections/13-church-foundation-laying-service.json",
     "category": "",
     "tags": []
   },
@@ -99,7 +99,7 @@
     "section_number": 14,
     "section_title": "Consecration of a New Church building",
     "slug": "consecration-of-a-new-church-building",
-    "file": "sections/14-consecration-of-a-new-church-building-104.json",
+    "file": "sections/14-consecration-of-a-new-church-building.json",
     "category": "",
     "tags": []
   },
